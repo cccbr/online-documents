@@ -40,7 +40,7 @@ The presence of these navigation menus removes the need for a conventional conte
 ----
 
 {{<hint info>}}
-**[Next Chapter](../015-files-and-folders/)**
+
 {{</hint>}}
 
 ----
