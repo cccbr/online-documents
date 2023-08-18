@@ -7,13 +7,6 @@ type: docs
 
 UNDER CONSTRUCTION
 
-----
-
-{{<hint info>}}
-**[First Chapter](/docs/010-introduction/)**
-{{</hint>}}
-
-----
 
 ## Disclaimer
  
