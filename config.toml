@@ -1,0 +1,9 @@
+baseURL = 'https://cccbr.github.io/online-documents'
+languageCode = 'en-us'
+title = 'Online Documents'
+theme = 'hugo-book'
+sidebar_search_disable = true
+publishDir = "docs/"
+
+[params]
+  BookLogo = 'favicon.png'
