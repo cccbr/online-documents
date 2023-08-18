@@ -37,13 +37,7 @@ A convenient way to use a tablet (such as an iPad) is to hold it horizontally an
 
 The presence of these navigation menus removes the need for a conventional contents list and you will later that the use of hyperlinks allows you to move between chapters and sections without the need for text such as “see Chapter 5”. Neither do we need to say things like “see page 73” because there is no pagination as in a conventional book – you just scroll through each chapter.
 
-----
 
-{{<hint info>}}
-
-{{</hint>}}
-
-----
 
 ## Disclaimer
  
