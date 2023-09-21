@@ -33,13 +33,13 @@ This experience currently rests in a limited number of individuals and this docu
 
 | Date | Details |
 | ---- | ---- |
-| August 2023 | All chapters at v0.1 (pre-publication) |
+| September 2024 | All chapters at v0.1 (pre-publication) |
 
 
 ## Disclaimer
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 0.1, August 2023
+Version 0.1, September 2024
 
-© 2023 Central Council of Church Bell Ringers
+© 2024 Central Council of Church Bell Ringers
