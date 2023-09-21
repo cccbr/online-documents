@@ -43,6 +43,6 @@ The presence of these navigation menus removes the need for a conventional conte
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 0.1, August 2023
+Version 0.1, September 2024
 
-© 2023 Central Council of Church Bell Ringers
+© 2024 Central Council of Church Bell Ringers
