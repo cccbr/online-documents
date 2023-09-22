@@ -185,6 +185,14 @@ The concept of 'Reviewing' appears in the Workflow and needs to be considered he
  5. Results and outcomes of reviews will be archived in MS Teams.
  6. The members will also undertake to provide suggestions for additions or changes based on experience, articles in the RW or other sources, but will not provide content (to retain their independent status).
 
+----
+
+{{<hint info>}}
+**[Previous Chapter](../050-publication/)**
+{{</hint>}}
+
+-----
+
 ## Disclaimer
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
