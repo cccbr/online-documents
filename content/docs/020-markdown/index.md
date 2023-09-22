@@ -87,6 +87,10 @@ You can have *italic*, **bold** and ***bold italic***
 'Underline' is not suppported in Markdown. We am not sure why, although it may be to avoid confusion with hyperlinks. We find underlining rather ugly so we can live with this.
 {{< /hint >}}
 
+## Horizontal rule
+
+A horizontal rule is produced by three dashes (---) on a line by themselves. In this chapter we have used rules to demark examples of rendered text.
+
 ## Lists
 
 Lists can be both unordered or ordered (that is, bullets or numbers).
@@ -332,7 +336,7 @@ The other options are 'info' (blue) and 'warning' (yellow).
 
 ### Raw html
 
-[This shortcode](https://anaulin.org/blog/hugo-raw-html-shortcode/) is not included in the Hugo documentation, or in the 'Book' theme. It is used in both *Belfry Upkeep* and *Belfry Projects* and is made available by including it in themes/hugo-book/layouts/shortcodes (as explained later - link). The file name is rawhtml.html and the content is simply:
+[This shortcode](https://anaulin.org/blog/hugo-raw-html-shortcode/) is not included in the Hugo documentation, or in the 'Book' theme. It is used in both *Belfry Upkeep* and *Belfry Projects* and is made available by including it in themes/hugo-book/layouts/shortcodes. The file name is rawhtml.html and the content is simply:
 
 ```
 <!-- raw html -->
@@ -378,8 +382,7 @@ fittings</td>
 
 ---
 
-This could not have been achieved with a simple Markdown table because of the two cells containing more than one paragraph.
-We accept that  some experts may disagree with this statement. There may be other work-arounds (though a search failed to find them). In fact, someone with a reasonable knowledge of html will probably find it easier to compile a complex table in html.
+This could not have been achieved with a simple Markdown table because of the two cells containing more than one paragraph. There may be other work-arounds (though a search failed to find them). In fact, someone with a reasonable knowledge of html will probably find it easier to compile a complex table in html.
 
 {{< hint danger >}}
 Raw html is a useful shortcode but it must be used with caution. The ability to insert raw html, especially if it contained inline styles, could ruin the carefully constructed 'look' of the 'Book' theme and might lead to unpredictable results. So far, it has only been used in the online documents to overcome the limitations of the basic Markdown table. Note that the html shown above is 'vanilla' - with no formatting codes apart from some italic tags. It inherits the styles of the 'Book' theme and matches the 'look' of the rest of the document - even to the extent of shading alternate lines of the table.
@@ -391,6 +394,6 @@ Raw html is a useful shortcode but it must be used with caution. The ability to 
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 0.1, August 2023
+Version 0.1, September 2023
 
 © 2023 Central Council of Church Bell Ringers
