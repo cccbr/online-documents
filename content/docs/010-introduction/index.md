@@ -9,7 +9,7 @@ For those who are not familiar with the use of online documents such as these, t
 
 ## What is a ‘Static Site Generator’?
 
-The document you are reading now is stored on a server. It has been delivered over the internet to a browser (Safari, Chrome or Firefox, for example) on your device, which may be a desktop PC (for the older readers), laptop, tablet or phone, for you to read. That is ‘read’ in the widest sense – It could include pictures, sound or video. The important point is that the information you see is what is stored on the server and can only be changed by altering the files on the server. That explains the word ‘Static’. This allows for fast download of content and is ideal for an electronic book like this.
+The document you are reading now is stored on a server. It has been delivered over the internet to a browser (Safari, Chrome or Firefox, for example) on your device, which may be a desktop PC (for the older readers), laptop, tablet or phone, for you to read. That is ‘read’ in the widest sense – it could include pictures, sound or video. The important point is that the information you see is what is stored on the server and can only be changed by altering the files on the server. That explains the word ‘Static’. This allows for fast download of content and is ideal for an electronic book like this.
 
 {{< hint warning >}}
 Many websites allow interaction – selecting a purchase from an online catalogue, for example. These are ‘Dynamic’ websites but we are not going there. In many cases the static/dynamic distinction may be blurred, anyway.
@@ -35,7 +35,7 @@ You can simulate this on a desktop or laptop by reducing the width of the browse
 A convenient way to use a tablet (such as an iPad) is to hold it horizontally and use the navigation menus to locate the chapter of interest, then turn it vertical to read the text, which will fill the screen.
 {{< /hint >}}
 
-The presence of these navigation menus removes the need for a conventional contents list and you will later that the use of hyperlinks allows you to move between chapters and sections without the need for text such as “see Chapter 5”. Neither do we need to say things like “see page 73” because there is no pagination as in a conventional book – you just scroll through each chapter.
+The presence of these navigation menus removes the need for a conventional contents list and you will see later that the use of hyperlinks allows you to move between chapters and sections without the need for text such as “see Chapter 5”. Neither do we need to say things like “see page 73” because there is no pagination as in a conventional book – you just scroll through each chapter.
 
 
 
@@ -43,6 +43,6 @@ The presence of these navigation menus removes the need for a conventional conte
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 0.1, September 2024
+Version 0.1, September 2023
 
-© 2024 Central Council of Church Bell Ringers
+© 2023 Central Council of Church Bell Ringers
