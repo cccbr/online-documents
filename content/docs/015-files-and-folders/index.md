@@ -75,6 +75,14 @@ Figure 7 shows the contents of the enclosed folder which is somewhat boring, hav
 **Style Tip - Use of Sub-chapters:** In this case, an article on avian flu became available which was relevent to the Health & Safety but which, in terms of size and writing style, would have unbalanced the chapter. So the avian flu article was included as a sub-chapter, presented as an "Appendix" to the Health & Safety chapter. Two further examples can be found in the 'Stakeholder Engagement' and 'Contract Specification' chapters of [*Belfry Projects*](https://belfryprojects.cccbr.org.uk). Here, the original draft of each chapter split into two parts: the first with general guidance and the second with specific examples. The second parts were presented as sub-chapters, identified as 'addendums'.
 {{< /hint >}}
 
+----
+
+{{<hint info>}}
+**[Previous Chapter](../010-introduction/)** - **[Next Chapter](../020-markdown)**
+{{</hint>}}
+
+----
+
 ## Disclaimer
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
