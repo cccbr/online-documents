@@ -31,9 +31,13 @@ And this is another paragraph.
 
 will render as:
 
+---
+
 This is a paragraph. Continuing here because there is no blank line.
 
 And this is another paragraph.
+
+---
 
 ## Headings
 
@@ -53,7 +57,11 @@ Headings are shown by placing one or more hashes (#) at the start of a line, fol
 
 will render as:
 
+---
+
 ![Screenshot of headings](markdown-1.png)
+
+---
 
 {{< hint warning >}}
 We had to use a screenshot to show the rendering above, rather than letting Hugo generate it within this document. You will see later that Headings play a key part in defining the navigation menus. Having these extra headings within this document would have messed up the navigation menus.
@@ -69,7 +77,11 @@ You can have *italic*, **bold** and ***bold italic***
 
 which renders as:
 
+---
+
 You can have *italic*, **bold** and ***bold italic***
+
+---
 
 {{< hint warning >}}
 'Underline' is not suppported in Markdown. We am not sure why, although it may be to avoid confusion with hyperlinks. We find underlining rather ugly so we can live with this.
@@ -92,10 +104,14 @@ Unordered lists have a dash and a space (- ) in front of each line item, with no
 
 will render as:
 
+---
+
 - First item
 - Second item
 	- Indented item
 - Third item
+
+---
 
 ### Ordered lists
 
@@ -109,6 +125,8 @@ Ordered lists have a number, a period and a space before each item (1. ), again 
 7. Third main item
 ```
 
+---
+
 will render as:
 
 1. First item
@@ -116,6 +134,8 @@ will render as:
 	1. First indented item
 	5. Second indented item
 7. Third main item
+
+---
 
 {{< hint info >}}
 You can nest an unordered list in an ordered list, or vice versa. We will spare you an example - try it for yourself.
@@ -134,10 +154,14 @@ A table allows you to present information in rows and columns, with the cells se
 
 will render as:
 
+---
+
 | Figure | Subject |
 | :---: | :--- |
 | 1 | An English church in Summer |
 | 2 | Another church, freezing in the depths of winter |
+
+---
 
 Note the following points:
 
@@ -180,7 +204,11 @@ edited using a code editor such as VS Code.
 
 As you will have already seen, this renders as:
 
+---
+
 The basic text input to Hugo is in a scripting language called Markdown, described fully in [*The Markdown Guide*](https://www.markdownguide.org). This chapter provides a simple introduction – you will need to check the Markdown Guide for further options. Note that Markdown is text-based. It can be entered and edited using a code editor such as VS Code.
+
+---
 
 Note that the linking text (made italic in this example) appears in blue - without underlining. 
 
@@ -198,7 +226,11 @@ This is a link to [Unordered lists](#unordered-lists).
 
 This renders as:
 
+---
+
 This is a link to [Unordered lists](#unordered-lists).
+
+---
 
 Try clicking on the link. 
 
@@ -223,7 +255,11 @@ with a custom target.
 
 This renders as:
 
+---
+
 This is a link to [Text and Paragraphs](#text-paragraphs) with a custom target.
+
+---
 
 Again, try it and see what happens.
 
@@ -241,7 +277,11 @@ For more information see [Introduction](../010-introduction/).
 
 Which renders as:
 
+---
+
 For more information see [Introduction](../010-introduction/).
+
+---
 
 If you wanted to link to a particular section within another chapter, you would add a target, as described above:
 
@@ -252,7 +292,11 @@ For more information on how to use Hugo, see
 
 There may be a case for a shorter custom target there, but this renders as:
 
+---
+
 For more information on how to use Hugo, see [Introduction](../010-introduction/#how-do-you-use-hugo).
+
+---
 
 {{< hint info >}}
 **Style Tip**: Whether you link to a whole chapter or to a section within that chapter depends on what you are trying to achieve. If the section in the linked chapter is relevant to a particular point in the linking chapter, then a link to the section is appropriate. But if there is a passing reference in the linking chapter to topics covered in detail in the linked chapter, then a link to the chapter itself would be more appropriate. 
@@ -270,9 +314,13 @@ For more information on how to use Hugo, see [Introduction](../010-introduction/
 
 Renders as:
 
+---
+
 {{< hint danger >}}
 This is a red 'danger' hint.
 {{< /hint >}}
+
+---
 
 (Apparently, you can't put a shortcode within a Markdown code block - hence the use of a screenshot above.)
 
@@ -296,6 +344,8 @@ Html code inserted within this shortcode will be passed directly to the publishe
 ![Figure 3](markdown-3.png)
 
 This renders as:
+
+---
 
 {{< rawhtml >}}
  <table>
@@ -325,6 +375,8 @@ fittings</td>
 </tbody>
 </table>
 {{< /rawhtml >}}
+
+---
 
 This could not have been achieved with a simple Markdown table because of the two cells containing more than one paragraph.
 We accept that  some experts may disagree with this statement. There may be other work-arounds (though a search failed to find them). In fact, someone with a reasonable knowledge of html will probably find it easier to compile a complex table in html.
