@@ -388,7 +388,13 @@ This could not have been achieved with a simple Markdown table because of the tw
 Raw html is a useful shortcode but it must be used with caution. The ability to insert raw html, especially if it contained inline styles, could ruin the carefully constructed 'look' of the 'Book' theme and might lead to unpredictable results. So far, it has only been used in the online documents to overcome the limitations of the basic Markdown table. Note that the html shown above is 'vanilla' - with no formatting codes apart from some italic tags. It inherits the styles of the 'Book' theme and matches the 'look' of the rest of the document - even to the extent of shading alternate lines of the table.
 {{< /hint >}}
 
+----
 
+{{<hint info>}}
+**[Previous Chapter](../015-files-and-folders/)** - **[Next Chapter](../030-images)**
+{{</hint>}}
+
+----
 
 ## Disclaimer
  
