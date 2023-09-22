@@ -125,9 +125,9 @@ Ordered lists have a number, a period and a space before each item (1. ), again 
 7. Third main item
 ```
 
----
-
 will render as:
+
+---
 
 1. First item
 9. Second item
