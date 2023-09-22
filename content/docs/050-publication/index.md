@@ -39,6 +39,14 @@ When the repository is set up, it is fairly easy to navigate the files and folde
 
 A 'Commit' triggers an action to rebuild the published website, also held within GitHub. This is similar to the way the site is rebuilt with a local server, but there may be some minutes delay before that happens.
 
+----
+
+{{<hint info>}}
+**[Previous Chapter](../040-navigation-menus/)** - **[Next Chapter](../060-workflow)**
+{{</hint>}}
+
+----
+
 ## Disclaimer
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
