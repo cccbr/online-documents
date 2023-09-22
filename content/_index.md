@@ -24,7 +24,7 @@ The Stewardship & Management Workgroup have produced three online documents:
 During this work, experience has been gained in several areas:
  - Exploiting the advantages of an online format.
  - Overcoming some limitations.
- - A writing style appropriate to the format.
+ - Developing a writing style appropriate to the format.
  - The technical steps needed to produce a document.
  - The workflow in moving from a first draft to the final document.
  - The maintenance of published documents.
@@ -35,13 +35,13 @@ This experience currently rests in a limited number of individuals and this docu
 
 | Date | Details |
 | ---- | ---- |
-| September 2024 | All chapters at v0.1 (pre-publication) |
+| September 2023 | All chapters at v0.1 (pre-publication) |
 
 
 ## Disclaimer
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 0.1, September 2024
+Version 0.1, September 2023
 
-© 2024 Central Council of Church Bell Ringers
+© 2023 Central Council of Church Bell Ringers
