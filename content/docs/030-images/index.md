@@ -111,7 +111,13 @@ The rendering of this code can be seen in the following section.
 | 1 | Favicon for 'Online Documents'. (Design: Robin Shipp) |
 | 2 | Operation of a traditional stay and slider. (Video: James Joynson) |
 
+----
 
+{{<hint info>}}
+**[Previous Chapter](../020-markdown/)** - **[Next Chapter](../040-navigation-menus)**
+{{</hint>}}
+
+----
 
 ## Disclaimer
  
