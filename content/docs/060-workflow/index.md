@@ -33,7 +33,7 @@ Once an agreed version has been produced in Word, it must be converted to Markdo
 
 #### Conversion by software
 
-The most common software for file conversion is [Pandoc](https://pandoc.org), which claims to be a universal document converter. This requires the program to be installed on your device - it is available for Macos, Windows or Linux. There is no graphical interface - it is operated through a terminal window. You may need advice on how to set up and use this.
+The most common software for file conversion is [Pandoc](https://pandoc.org), which claims to be a universal document converter. This requires the program to be installed on your device - it is available for MacOS, Windows or Linux. There is no graphical interface - it is operated through a terminal window. You may need advice on how to set up and use this.
 
 Figure 2 shows a short Word file (test-word.docx) used as a test:
 
@@ -134,7 +134,7 @@ Ideally, this is the final point. But there may be a need for further changes:
  - Even with thorough checking, typos may slip through and noticed only in the published document.
  - Exposed to a wider readership, technical points may be raised which require minor edits or possibly more major updates.
 
-It is possible (and very quick and convenient) to make changes like this by directly editing the GitHub repository and committing the changes. But this raises the issue of a 'definitive version' of the document, discussed in the following section.
+GitHub incorporates and editor and it is possible (and very quick and convenient) to make changes like this by directly editing the GitHub repository and committing the changes. But this raises the issue of a 'definitive version' of the document, discussed in the following section.
 
 ## Definitive Version
 
@@ -146,7 +146,7 @@ Assume that a 'chapter' of a document is uploaded to GitHub and [published](../0
  3. A Markdown version held in GitHub.
  4. A published version available online - which will be identical in content to 3, but in a more readable form.
 
-As noted above, versions 2 and 3 may differ from version 1, usually as minor corrections are made. However, with time and experience, [version 3](#github-repository) may change in more substantial ways.
+As noted above, versions 2 and 3 may differ from version 1, in format and as minor corrections are made. Also, with time and experience, [version 3](#github-repository) may change in more substantial ways.
 
 The challenge, therefore, is:
  - How to identify the 'definitive version' of a document.
@@ -164,9 +164,9 @@ Any changes made to the Markdown versions would be duplicated in the original WP
 
 This would not involve updates to the original WP document, although there is a good argument to retain this as a record of the original intentions.
 
-*An argument against this is the lack of a backup copy of the definitive document, since the only copy is the GitHub repository. Given the number of users of GitHub, however, we  suggest that we must regard that copy as safe - probably safer than on many other backup devices. It is possible to 'clone' a repository to another device so there may be an argument to do that periodically - possibly to Microsoft Teams.*
+*A possible argument against this is the lack of a backup copy of the definitive document, since the only copy is the GitHub repository. Given the widespread use of GitHub, however, we  suggest that we must regard that copy as safe - probably safer than on many other backup devices. It is possible to 'clone' a repository to another device so there may be an argument to do that periodically - possibly to Microsoft Teams.*
 
-*There is, however, the difficulty of demonstrating an appropriate level of independent review for any changes. We discuss that in the following section.*
+*There still remains, however, the difficulty of demonstrating an appropriate level of independent review for any changes. We discuss that in the following section.*
 
 ### Level of independent review
 
