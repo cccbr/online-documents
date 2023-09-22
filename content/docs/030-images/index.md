@@ -70,7 +70,7 @@ Many videos of interest are now available through YouTube - there is a YouTube i
 
 Sending a user away from your site to another one is never a good idea - they may get interested and not come back. A better solution is to embed the link and Hugo has a [shortcode for this](https://gohugo.io/content-management/shortcodes/#youtube). This requires you only to enter the YouTube video ID - the code that follows 'v=' in the video's url.
 
-This is used in [*Belfry Projects*](https://belfryprojects.cccbr.org.uk/docs/040-managing-project/#undertaking-the-work) to show short (and very professional) videos taken at the start and end of the Eastnor bells project. This is much better but if you watch to the end you will see that it finishes with suggestions of other YouTube videos "that might be of interest". Again, not ideal in our view.
+This is used in [*Belfry Projects*](https://belfryprojects.cccbr.org.uk/docs/040-managing-project/#undertaking-the-work) to show short (and very professional) videos taken at the start and end of the Eastnor bells project. This is much better (although you may still see advertisements) but if you watch to the end you will see that it finishes with suggestions of other YouTube videos "that might be of interest". Again, not ideal in our view.
 
 ### Vimeo
 
@@ -92,7 +92,7 @@ Our view is that Vimeo provides a much more professional appearance and we would
 
 ## Attribution
 
-Acknowledgement of the producers of images is given in an 'Image credits' section at the end of each chapter. This is not needed for most of this document, as almost all of the images have been produced by the author. As an example, the code for the two images used in this chapter (one of which was taken from *Belfry Upkeep* and was not produced by the author) is as follows:
+Acknowledgement of the producers of images is given in an 'Image credits' section at the end of each chapter. This is not needed for most of this document, as almost all of the images have been produced by the author but, as an example, the code for the two images used in this chapter (one of which was taken from *Belfry Upkeep* and was not produced by the author) is as follows:
 
 ```
 | Figure | Details |
@@ -117,6 +117,6 @@ The rendering of this code can be seen in the following section.
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 0.1, August 2023
+Version 0.1, September 2023
 
 © 2023 Central Council of Church Bell Ringers
