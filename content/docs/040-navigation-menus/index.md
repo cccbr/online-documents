@@ -21,7 +21,7 @@ Figure 1 shows the first five chapters of the left-hand menu.
 
 *Figure 1: First part of the chapters menu*
 
-How does Hugo know in what order the chapters should appear? They do appear in the order of the chapter folders in a directory listing or in the online repository but, as we said in [Files & Folders](../015-files-and-folders), that is because we have - for convenience - started each folder name with a three digit code which has no meaning to Hugo. The answer lies in some Markdown code at the top of each chapter. In the 'Introduction' chapter of *Belfry Projects* this is:
+How does Hugo know in what order the chapters should appear? They do appear in the order of the chapter folders in a directory listing or in the online repository but, as we said in [Files & Folders](../015-files-and-folders), that is because we have - for convenience - started each folder name with a three digit code which has no meaning to Hugo. The real answer lies in some Markdown code at the top of each chapter. In the 'Introduction' chapter of *Belfry Projects* this is:
 
 ```
 ---
@@ -64,12 +64,12 @@ At an early stage of development, it was suggested that it would be convenient i
 
 ... and the result can be seeen, and tested, below:
 
-
+(To be added)
 
 ## Disclaimer
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 0.1, August 2023
+Version 0.1, September 2023
 
 © 2023 Central Council of Church Bell Ringers
