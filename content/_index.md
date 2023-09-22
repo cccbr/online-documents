@@ -37,6 +37,13 @@ This experience currently rests in a limited number of individuals and this docu
 | ---- | ---- |
 | September 2023 | All chapters at v0.1 (pre-publication) |
 
+----
+
+{{<hint info>}}
+**[First Chapter](/docs/010-introduction/)**
+{{</hint>}}
+
+----
 
 ## Disclaimer
  
