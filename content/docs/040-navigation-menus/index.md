@@ -64,7 +64,13 @@ At an early stage of development, it was suggested that it would be convenient i
 
 ... and the result can be seeen, and tested, below:
 
-(To be added)
+----
+
+{{<hint info>}}
+**[Previous Chapter](../030-images/)** - **[Next Chapter](../050-publication)**
+{{</hint>}}
+
+----
 
 ## Disclaimer
  
