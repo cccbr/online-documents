@@ -92,7 +92,7 @@ You will see that the software has not done badly. It correctly identified:
 - Link to a web reference
 - Text decoration
 
-It produced a table but, as we saw [earlier](../020-markdown/#tables), this would not render correctly, as it has a line feed within a table cell.
+It produced a table but, as we saw [earlier](../020-markdown/#tables), this would not render correctly, as it has mre than one line within a table cell.
 
 {{< hint warning >}}
 While not shown here, the conversion would not handle images, as these are in separate files. We believe there is a way around this by using the more exotic features of Pandoc, but we have not investigated this.
@@ -106,7 +106,7 @@ An alternative is to copy and paste text from the WP document directly into an e
 It may help if you have two screens open, with the WP document on one and the editor on the other.
 {{< /hint >}}
 
-Experience has shown that the most effective way is to do this one paragraph or heading at a time, adding appropriate Markdown for headings, text decoration, links and so on within the editor.
+Experience has shown that the most effective way is to do this by transferring one paragraph or heading at a time, adding appropriate Markdown for headings, text decoration, links and so on within the editor.
 
 #### Conversion - conclusion
 
@@ -134,7 +134,7 @@ Ideally, this is the final point. But there may be a need for further changes:
  - Even with thorough checking, typos may slip through and noticed only in the published document.
  - Exposed to a wider readership, technical points may be raised which require minor edits or possibly more major updates.
 
-GitHub incorporates and editor and it is possible (and very quick and convenient) to make changes like this by directly editing the GitHub repository and committing the changes. But this raises the issue of a 'definitive version' of the document, discussed in the following section.
+GitHub incorporates an editor and it is possible (and very quick and convenient) to make changes like this by directly editing the GitHub repository and committing the changes. But this raises the issue of a 'definitive version' of the document, discussed in the following section.
 
 ## Definitive Version
 
@@ -164,7 +164,7 @@ Any changes made to the Markdown versions would be duplicated in the original WP
 
 This would not involve updates to the original WP document, although there is a good argument to retain this as a record of the original intentions.
 
-*A possible argument against this is the lack of a backup copy of the definitive document, since the only copy is the GitHub repository. Given the widespread use of GitHub, however, we  suggest that we must regard that copy as safe - probably safer than on many other backup devices. It is possible to 'clone' a repository to another device so there may be an argument to do that periodically - possibly to Microsoft Teams.*
+*A possible argument against this is the lack of a backup copy of the definitive document, since the only copy is in the GitHub repository. Given the widespread use of GitHub, however, we  suggest that we must regard that copy as safe - probably safer than on many other backup devices. It is possible to 'clone' a repository to another device so there may be an argument to do that periodically - possibly to Microsoft Teams.*
 
 *There still remains, however, the difficulty of demonstrating an appropriate level of independent review for any changes. We discuss that in the following section.*
 
