@@ -5,8 +5,6 @@ type: docs
 
 # Online Documents
 
-**NOTE: Still under construction**
-
 ## Introduction
 
 The Stewardship & Management Workgroup have produced three online documents:
@@ -35,7 +33,7 @@ This experience currently rests in a limited number of individuals and this docu
 
 | Date | Details |
 | ---- | ---- |
-| September 2023 | All chapters at v0.1 (pre-publication) |
+| September 2023 | All chapters at v0.1 |
 
 ## Disclaimer
  
