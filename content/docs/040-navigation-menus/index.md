@@ -7,10 +7,6 @@ weight: 40
 
 This chapter cover the navigation menus - the clickable list of document chapters on the left side of the screen and the clickable list of sections within the current chapter on the right side of the screen. (If you have a narrow browser window you will, of course need to click the menu bars at top left or right, as described in the [Introduction](../010-introduction/#how-do-you-use-hugo)). 
 
-{{< hint warning>}}
-In our view, this extensive hyperlinking removes the need for a conventional contents list or an index.
-{{< /hint >}}
-
 We will use the *Belfry Projects* document (as at the time of writing) as an example.
 
 ## Chapter Menu
@@ -39,7 +35,7 @@ Between the two rows of dashes are 'title' and 'weight'. These are Hugo paramete
 {{< hint info >}}
 **Style Tips**:
  1. Note that we are using a Level 1 heading to provide a title for the chapter. This does not need to be identical to the title parameter. If you click on 'Files & Folders' in this document you will see that the title on the chapter page is 'Files and Folders'. This is a useful way of shortening the menu entry to make it look neater. The ampersand is useful here.
- 2. Note we also use the same weight as our 'for convenience' numbering of the folder. This is not essential but it is useful to increase these numbers initially by 10 to make adding extra chapters easier.
+ 2. Note we also use the same weight as our 'for convenience' numbering of the folder. This is not essential but it it avoids confusion and, again, increasing these numbers initially by 10 makes adding extra chapters easier.
 {{< /hint>}}
 
 ## Section Menu
@@ -51,7 +47,7 @@ This is the right hand menu. As you can see from any of the online documents, in
  - The menu is indented to a level of two. In other words only the Level 2 and 3 headings are shown, although higher levels can be used.
 
 {{< hint info >}}
-It is not clear if the two level limit can be increased. Our judgement, however, is that an increased number of level would over-complicate the menu.
+These are Hugo defaults and it is not clear if they can be changed. Our judgement, however, is that an increased number of levels would over-complicate the menu.
 {{< /hint >}}
 
 ## End of Chapter Menu
