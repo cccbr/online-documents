@@ -41,7 +41,7 @@ And this is another paragraph.
 
 ## Headings
 
-{{< hint danger >}}
+{{< hint info >}}
 Headings are treated as paragraphs and you must put blank lines before and after a heading.
 {{< /hint >}}
 
@@ -89,7 +89,7 @@ You can have *italic*, **bold** and ***bold italic***
 
 ## Horizontal rule
 
-A horizontal rule is produced by three dashes (---) on a line by themselves. In this chapter we have used rules to demark examples of rendered text.
+A horizontal rule is produced by three or more asterisks (***), dashes (---), or underscores (___) on a line by themselves. In this chapter we have used rules to demark examples of rendered text.
 
 ## Lists
 
@@ -170,11 +170,11 @@ will render as:
 Note the following points:
 
 - The heading row is emboldened (although that may not be true for all flavours of Markdown).
-- The second heading row under must contain three or more dashes in each column.
+- The second heading row must contain three or more dashes in each column.
 - The colons in this row determine the text alignment:
 	- Colon on left for left alignment (this is the default if no colons).
 	- Colon on the right for right alignment (not shown here).
-	- Colon either end for centered text.
+	- Colons either end for centered text.
 - A column will take the width of the longest cell.
 - Alternate data rows are rendered with a light grey background.
 
