@@ -29,7 +29,7 @@ During this work, experience has been gained in several areas:
  - The workflow in moving from a first draft to the final document.
  - The maintenance of published documents.
 
-This experience currently rests in a limited number of individuals and this document is intended as a Manual for the production of online documents, intended to share the experience more widely. We expect regular updates to this document, as experience widens and possible additinal features are included.
+This experience currently rests in a limited number of individuals and this document is a manual for the production of online documents, intended to share the experience more widely. We expect regular updates to this document, as experience widens and additional features are included.
 
 ## Latest Updates
 
