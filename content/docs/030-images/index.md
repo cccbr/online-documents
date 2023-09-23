@@ -7,14 +7,18 @@ weight: 30
 
 Figures (both pictures and video clips) could have been included in the [Markdown](../020-markdown) chapter. But there are  techical and style issues about how figures are treated in these online documents which merit a separate chapter.
 
+{{< hint info >}}
+Observant readers will have noticed that the 'Figures' chapter is included in a folder named '030-images'. This was a change made during development and illustrates how the title of a chapter bears no relationship to the name of the folder (although it is probably wise to retain a connection, to avoid confusion).
+{{< /hint >}}
+
 ## Style for Figures and Captions
 
 When work started on *Belfry Upkeep* - the first online document - our 'model' was the *Manual of Belfry Maintenance*. This printed document does not reference figures by number, and figures have no captions. This makes for ugly text, such as “The figure below...” or the “The figure on the previous page...”. A decision was made, therefore, that figures (including video clips) should have a numbered caption to allow reference and additional explanation in the text. This decision has been carried on to the two further online documents.
 
-There is an exception to the 'numbered figures' style. In some cases, we had attractive images which supported the 'feel' of a chapter without being technically critical. These have been used at the top of some chapters as 'Title Figures' without a caption.
+There is an exception to the 'numbered figures' style: In some cases, we had attractive images which supported the 'feel' of a chapter without being technically critical. These have been used at the top of some chapters as 'Title Figures' without a caption.
 
 {{< hint info >}}
-There is a 'figure' [shortcode](../020-markdown/#shortcodes) which includes a caption and allows the image to be floated left or right, with text continuing beside it. The use of this was considered and rejected because:
+There is a 'figure' [shortcode](../020-markdown/#shortcodes) within Hugo which includes a caption and allows the image to be floated left or right, with text continuing beside it. The use of this was considered and rejected because:
 
  - The rendering of the caption is not attractive and seems to be impossible to control.
  - More seriously, the 'floating' may not work well if there are several figures close together, especially if using a narrow screen.
