@@ -92,7 +92,7 @@ You will see that the software has not done badly. It correctly identified:
 - Link to a web reference
 - Text decoration
 
-It produced a table but, as we saw [earlier](../020-markdown/#tables), this would not render correctly, as it has mre than one line within a table cell.
+It produced a table but, as we saw [earlier](../020-markdown/#tables), this would not render correctly, as it has more than one line within a table cell. Also, links to other chapters in the same document would not work using a hyperlink within the WP file.
 
 {{< hint warning >}}
 While not shown here, the conversion would not handle images, as these are in separate files. We believe there is a way around this by using the more exotic features of Pandoc, but we have not investigated this.
