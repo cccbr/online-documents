@@ -185,6 +185,12 @@ The concept of 'Reviewing' appears in the Workflow and needs to be considered he
  5. Results and outcomes of reviews will be archived in MS Teams.
  6. The members will also undertake to provide suggestions for additions or changes based on experience, articles in the RW or other sources, but will not provide content (to retain their independent status).
 
+# Use of Teams
+
+Possible section covering value of Teams in sharing documents. If all reviewers use Teams (see previous section) we would automatically have a record of comments, responses, changes, etc.
+
+But poor take-up of Teams by WG. Would 'Review Board' have to be all committed to use of Teams??
+
 ----
 
 {{<hint info>}}
