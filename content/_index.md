@@ -33,6 +33,7 @@ This experience currently rests in a limited number of individuals and this docu
 
 | Date | Details |
 | ---- | ---- |
+| May 2024 | Workflow v0.2: Additional section on Use of Teams - early draft |
 | September 2023 | All chapters at v0.1 |
 
 ## Disclaimer
