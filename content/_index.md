@@ -40,6 +40,6 @@ This experience currently rests in a limited number of individuals and this docu
  
 *Whilst every effort has been made to ensure the accuracy of this information, neither contributors nor the Central Council of Church Bell Ringers can accept responsibility for any inaccuracies or for any activities undertaken based on the information provided.*
 
-Version 0.1, September 2023
+Version 0.12, May 2024
 
-© 2023 Central Council of Church Bell Ringers
+© 2024 Central Council of Church Bell Ringers
